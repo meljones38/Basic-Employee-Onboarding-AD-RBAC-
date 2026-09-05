@@ -86,3 +86,17 @@ Contains screenshots demonstrating the Active Directory configuration and comple
 ## Project Purpose
 
 This lab was created to develop hands-on experience with Active Directory and Identity and Access Management concepts used in enterprise IT environments, including user provisioning, access control, RBAC, security groups, troubleshooting, and documentation.
+
+## Lab Evidence
+
+The Screenshots directory contains visual evidence of the completed Active Directory and IAM lab activities, including:
+
+- Active Directory domain configuration
+- Organizational Unit (OU) structure
+- Employee user account provisioning
+- Department-based security groups
+- Role-Based Access Control (RBAC) implementation
+- User and group membership verification
+- Access troubleshooting and remediation
+
+These screenshots demonstrate hands-on experience with identity administration, access provisioning, group-based authorization, and least-privilege access management.
